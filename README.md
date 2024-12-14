@@ -5,6 +5,7 @@ qui está a estrutura do seu projeto com os arquivos necessários e o código pa
 ##Estrutura do Projeto
 
 ``plaintext
+
 carreira-ancoras/
 ├── assets/
 │   └── index.html
