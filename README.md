@@ -11,7 +11,6 @@ carreira-ancoras/
 ├── styles.css
 └── script.js
 ```
-
 ```
 <!DOCTYPE html>
 <html lang="en">
