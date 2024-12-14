@@ -11,5 +11,6 @@ carreira-ancoras/
 │   └── (coloque imagens ou ícones aqui, se necessário)
 ├── index.html
 └── styles.css
-```
 bash
+```
+
