@@ -4,10 +4,12 @@ qui está a estrutura do seu projeto com os arquivos necessários e o código pa
 
 ##Estrutura do Projeto
 
-```bash
+```
+bash
 carreira-ancoras/
 ├── assets/
 │   └── (coloque imagens ou ícones aqui, se necessário)
 ├── index.html
 └── styles.css
-```bash
+```
+bash
