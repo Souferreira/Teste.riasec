@@ -2,18 +2,10 @@
 Este é um teste interativo sobre Âncoras de Carreira, composto por 40 perguntas que avaliam preferências profissionais e prioridades pessoais. Após responder, os resultados são apresentados em um gráfico de barras, destacando categorias como autonomia, segurança e criatividade, com opção de download em PDF.
 qui está a estrutura do seu projeto com os arquivos necessários e o código para que o site funcione no GitHub Pages:
 
-##Estrutura do Projeto
-
-```plaintext
-carreira-ancoras/
-├── assets/
-│   └── index.html
-├── styles.css
-└── script.js
-```
-
 
 ```
+Teste vocaional
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -343,7 +335,7 @@ img {
             { question: "5-Investir em um negócio promissor de alto risco", category: "EMPREENDEDOR" },
             { question: "6-Controlar estoques em uma loja ou empresa", category: "CONVENCIONAL" },
             { question: "7-Montar aparelhos ou objetos", category: "REALISTA" },
-            { question: "8-Estudar o modo de viver em outras culturas", category: "INVESTIGATIVO" },
+             { question: "8-Estudar o modo de viver em outras culturas", category: "INVESTIGATIVO" },
                 { question: "9-Fazer trabalhos que requeiram expressão das emoções", category: "ARTÍSTICO" },
                 { question: "10-Desenvolver trabalhos voluntários", category: "SOCIAL" },
                 { question: "11-Desempenhar tarefas em que possa comandar um grupo de pessoas", category: "EMPREENDEDOR" },
