@@ -289,7 +289,6 @@ img {
                         <th>6</th>
                         <th>7</th>
                     </tr>
-                </thead>
                 <tbody>
                     <tr>
                         <td>Me desagrada muito</td>
